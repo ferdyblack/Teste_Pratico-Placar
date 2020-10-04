@@ -1,5 +1,5 @@
 # Teste_Pratico-Placar
-Questão Prática- Placar- Programa desenvolvido em Java para facilitar a jogadora Maria a anotar seus desempenho.
+Questão Prática- Placar- Programa desenvolvido em Delphi para facilitar a jogadora Maria a anotar seus desempenho.
 
 Problema: Maria é jogadora de Basquete e criou uma tabela para registrar suas potuações, porém fazia isso manualmente.
 
