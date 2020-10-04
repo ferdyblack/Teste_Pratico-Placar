@@ -3,7 +3,7 @@ Questão Prática- Placar- Programa desenvolvido em Delphi para facilitar a joga
 
 Problema: Maria é jogadora de Basquete e criou uma tabela para registrar suas potuações, porém fazia isso manualmente.
 
-Solução: Foi criado um programa de um algoritmo, na liguagem Dephi  para facilitar a marcação do desempenho de Maria.
+Solução: Foi criado um algortimo na liguagem Dephi  para facilitar a marcação do desempenho de Maria.
 
 Caso não queira baixar o dephi somente baixar o executavel "ProjetoPlacar.exe"
 
