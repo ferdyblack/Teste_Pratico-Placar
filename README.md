@@ -7,7 +7,7 @@ Problema: Maria é jogadora de Basquete e criou uma tabela para registrar suas p
 
 Solução: Foi criado um programa em forma de tabela, na liguagem Dephi para facilitar a marcação do desempenho de Maria.
 
-Programa esta nesse link:https://github.com/ferdyblack/Teste_Pratico-Placar.git
+Programa esta nesse link: https://github.com/ferdyblack/Teste_Pratico-Placar.git
 
 Caso não queira baixar o dephi somente baixar o executavel "ProjetoPlacar.exe"
 
